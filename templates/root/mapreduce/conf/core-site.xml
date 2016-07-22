@@ -7,7 +7,7 @@
 
   <property>
     <name>hadoop.tmp.dir</name>
-    <value>/mnt/mapreduce</value>
+    <value>/vol0/mapreduce</value>
   </property>
 
   <property>

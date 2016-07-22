@@ -7,7 +7,7 @@
 
   <property>
     <name>hadoop.tmp.dir</name>
-    <value>/mnt/ephemeral-hdfs</value>
+    <value>/vol0/ephemeral-hdfs</value>
   </property>
 
   <property>

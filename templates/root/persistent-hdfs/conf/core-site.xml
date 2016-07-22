@@ -7,7 +7,7 @@
 
   <property>
     <name>hadoop.tmp.dir</name>
-    <value>/vol/persistent-hdfs</value>
+    <value>/vol0/persistent-hdfs</value>
   </property>
 
   <property>
